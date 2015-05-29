@@ -1,0 +1,5 @@
+C:\Users\MELY\AndroidStudioProjects\Zapateria\app\build\intermediates\classes\release
+C:\Users\MELY\AndroidStudioProjects\Zapateria\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-f0517076b1ecc0230ca792213f0fd9e0cc7b37e6.jar
+C:\Users\MELY\AndroidStudioProjects\Zapateria\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-a26bacd45c6b406503a8bedcc03468794b4e0b49.jar
+C:\Users\MELY\AndroidStudioProjects\Zapateria\app\build\intermediates\pre-dexed\release\classes-a834ba4565aeda2ed63600c82f15fcd82ce7de2f.jar
+C:\Users\MELY\AndroidStudioProjects\Zapateria\app\build\intermediates\pre-dexed\release\classes-d96eeeeb5b1ed9af1f0d72863bee884f4044de17.jar
